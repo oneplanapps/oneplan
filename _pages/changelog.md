@@ -22,6 +22,8 @@ Put your training plan in the palm of your hand. Whether you're training for you
 
 Version 2.0, or a complete OnePlan relaunch. After releasing version 1.0, we've taken all of the feedback we could get and went back to the drawing board. We've added features, squashed some bugs and launched the Android version of OnePlan (not yet approved by the store at the time of writing this)
 
+Edit: Android is now released!
+
 #### What's New
 
 - Added more workouts and ability to add your own custom workout
